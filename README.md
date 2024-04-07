@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Артем</h1>
-<h3 align="center">В 2022 ушел со скучной работы и стал тестировщиком! </h3>
+<h3 align="center">В 2022 ушел со скучной работы и стал тестировщиком!  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
